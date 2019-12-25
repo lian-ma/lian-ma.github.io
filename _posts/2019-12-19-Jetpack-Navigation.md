@@ -127,7 +127,7 @@ fragment 的跳转是通过 xml 文件配置，比平常的 FragmentManager 管�
 	> 以下就是通过点击 `+` 把三个fragment添加进来，然后进行手动连线，最后生成上诉代码，是不是很简单明了！
 	
 	
-	![design.png](https://i.loli.net/2019/12/24/3DKrvwlkFb5VCam.png)
+	![design.png](/image/design.png)
 
 - *接下来，回到咱们 activity 的 layout 文件中进行配置，以下贴出 MainActivity 的 layout 代码：*
 
