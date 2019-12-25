@@ -320,7 +320,7 @@ fragment 的跳转是通过 xml 文件配置，比平常的 FragmentManager 管�
 		```
 	**效果图如下**
 	
-		![navigation.png](https://i.loli.net/2019/12/24/ODX4il1GZMS8jL2.png)
+		![navigation.png](/image/ODX4il1GZMS8jL2.png)
 
 	
 ### Happy Ending！ ###
